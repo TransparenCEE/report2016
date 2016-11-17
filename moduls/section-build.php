@@ -13,27 +13,29 @@
         </div>
 
         <div class="project project-1">
-          <h3 class="project-title">Faktual (Romania)</h3>
+          <h3 class="project-title">Factual (Romania)</h3>
           <div class="project-links">
-            <a target="_blank" href="https://github.com/TransparenCEE/factchecker-wordpress-api">github</a>
-            <span class="divider">|</span>
-            <a target="_blank" href="https://github.com/TransparenCEE/factchecker-plugin-chrome/">extension</a>
+	    <a target="_blank" href="https://chrome.google.com/webstore/detail/factual/jpekebgajgpbhbahmnckegjngblbdgej">Chrome extension</a>
+ 	    <span class="divider">|</span>           
+            <a target="_blank" href="https://github.com/TransparenCEE/factchecker-plugin-chrome">github</a>
           </div>
         </div>
 
         <div class="project project-2">
-          <h3 class="project-title">Red Flags (Hungary)</h3>
+          <h3 class="project-title">Red Flags (Hungary & Poland)</h3>
           <div class="project-links">
-            <a target="_blank" href="http://pl.redflags.transparencee.org/">website</a> 
+            <a target="_blank" href="http://redflags.eu/">website hu</a> 
             <span class="divider">|</span>
-            <a target="_blank" href="https://github.com/epforgpl/redflags">github</a>           
+            <a target="_blank" href="http://pl.redflags.transparencee.org/">website pl</a> 
+            <span class="divider">|</span>
+            <a target="_blank" href="https://github.com/petabyte-research/redflags">github</a>           
           </div>
         </div>
 
         <div class="project project-3">
-          <h3 class="project-title">Visualizing Municipal Budgets&nbsp;(Georgia)</h3>
+          <h3 class="project-title">Visualizing Municipal Budgets (Georgia)</h3>
           <div class="project-links">
-            <a target="_blank" href="http://epfund.flash.ge/">website</a>   
+            <a target="_blank" href="http://budgets.epfound.ge/">website</a>   
             <span class="divider">|</span>
             <a target="_blank" href="https://github.com/TransparenCEE/budgets.epfound.ge">github</a>      
           </div>
@@ -44,7 +46,7 @@
           <div class="project-links">
             <a target="_blank" href="http://faktograf.hr/">website</a> 
             <span class="divider">|</span>
-            <a target="_blank" href="https://github.com/bezbeli/faktograf">github</a>            
+            <a target="_blank" href="https://github.com/TransparenCEE/faktograf">github</a>            
           </div>
         </div>
 
@@ -55,7 +57,7 @@
           <div class="project-links">
             <a target="_blank" href="http://www.konfliktiinteresa.me/">website</a> 
             <span class="divider">|</span>
-            <a target="_blank" href="https://github.com/cdtcrnagora/konfliktiinteresa">github</a>            
+            <a target="_blank" href="https://github.com/TransparenCEE/konfliktiinteresa">github</a>            
           </div>
         </div>
 

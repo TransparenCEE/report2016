@@ -77,17 +77,18 @@
     
     <div class="thank-you-firms">
       <span>K-monitor, Hungary</span>
-      <span>ActionSEE from Western Balkans (Zasto ne, Bosnia and Herzegovina</span>
-      <span>CRTA Serbia</span>
+      <span>ActionSEE from Western Balkans (Zasto ne, Bosnia and Herzegovina)</span>
+      <span>CRTA, Serbia</span>
       <span>Metamorphosis Foundation, Macedonia</span>
-      <span>CDT, Montenegro), Open Data Kosovo, Kosovo</span>
+      <span>CDT, Montenegro</span>
+      <span>Open Data Kosovo, Kosovo</span>
       <span>Funky Citizens, Romania</span>
       <span>Europe Foundation, Georgia</span>
       <span>Citizens Network OPORA, Ukraine</span>
-      <span>Fair Play-Alliance, Slovakia</span>
+      <span>Fair-Play Alliance, Slovakia</span>
       <span>TOL, Czech Republic</span>
       <span>Texty.org.ua, Ukraine</span>
-      <span>Teplisa, Russia</span>
+      <span>Teplitsa, Russia</span>
       <span>UNDP Regional Hub, Turkey</span>
       <span>UNDP Ukraine</span>
       <span>TechSoup Global</span>

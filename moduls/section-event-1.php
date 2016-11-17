@@ -22,8 +22,8 @@
           <div class="youtube-text">
           If you want to come back to some memories and learnings, you can find the recording all presentations in the YouTube playlists:</div>
           <div class="language-links"> 
-            <a class="language-circle" target="_blank" target="_blank" href="https://www.youtube.com/playlist?list=PLZtZF1bxmy31Io8dj9qQUtzh8d_td_C3b">UA</a>
-            <a class="language-circle" target="_blank" target="_blank" href="https://www.youtube.com/playlist?list=PLZtZF1bxmy30L9p2jJVuTRa7yHiO6v1aK">EN</a>
+            <a class="language-circle" target="_blank" target="_blank" href="https://www.youtube.com/watch?v=93o3ym5B60s&index=1&list=PLZtZF1bxmy31Io8dj9qQUtzh8d_td_C3b">UA</a>
+            <a class="language-circle" target="_blank" target="_blank" href="https://www.youtube.com/watch?v=93o3ym5B60s&list=PLZtZF1bxmy30L9p2jJVuTRa7yHiO6v1aK&index=1">EN</a>
           </div> 
         </div>
         
