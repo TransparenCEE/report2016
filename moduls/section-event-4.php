@@ -1,0 +1,28 @@
+<section id="section-event-4" class="section event-section">
+  <div class="content-column">
+    <h2 class="slide-title">
+      <span class="title-text">TransparenCEE Community MeetUP Georgia</span>
+      <span class="shadow"></span>
+    </h2>
+
+    <div class="event-images top-bottom">
+      <div class="event-image-1">
+        <img src="images/event-4-1.jpg" alt="">
+        <div class="event-image-link">
+          <a target="_blank" href="http://tcmgeo2016.transparencee.org/">Website</a>
+          <span class="divider">|</span>
+          <?php include ("moduls/photos-4.php"); ?>
+          <img src="images/arrow-left.svg" class="links-arrow" alt="">
+        </div>
+      </div> 
+      <div class="event-image-2">
+        <img src="images/event-4-2.jpg" alt="">
+        <div class="event-image-link">
+          <a target="_blank" href="https://spark.adobe.com/page/B6D75YQRulefK/">Summary article</a>
+          <img src="images/arrow-right.svg" class="links-arrow" alt="">
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>

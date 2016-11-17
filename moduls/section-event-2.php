@@ -1,0 +1,28 @@
+<section id="section-event-2" class="section event-section">
+  <div class="content-column">
+    <h2 class="slide-title">
+      <span class="title-text">Personal Democracy Forum PL CEE</span>
+      <span class="shadow"></span>
+    </h2>
+
+    <div class="event-images">
+      <div class="event-image-1">
+        <img src="images/event-2-1.jpg" alt="">
+        <div class="event-image-link">
+          <a target="_blank" href="http://epf.org.pl/en/events/personal-democracy-forum-pl-and-cee-2016/">Website</a>
+          <span class="divider">|</span>
+          <?php include ("moduls/photos-2.php"); ?>
+          <img src="images/arrow-left.svg" class="links-arrow" alt="">
+        </div>
+      </div> 
+      <div class="event-image-2">
+        <img src="images/event-2-2.jpg" alt="">
+        <div class="event-image-link">
+          <a target="_blank" href="https://www.youtube.com/watch?v=KroPhbkmfdM&list=PLa_8n5BEWSblXi2wvML1BNCTvkGUay-yU&index=1">Watch reportage</a>
+          <img src="images/arrow-right.svg" class="links-arrow" alt="">
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
