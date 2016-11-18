@@ -3,8 +3,11 @@
 <html lang="pl">
 <head>
   <meta charset="utf-8">
-  <title>Transparencee</title>
+  <title>TransparenCEE Report 2015-2016</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:image" content="http://2016.transparencee.org/images/t_cee5.jpg">
+  <meta property="og:url" content="http://2016.transparencee.org">
+  <meta property="og:title" content="TransparenCEE Report 2015-2016">
 
   <!-- Typekit -->
   <script src="https://use.typekit.net/mdw5hvk.js"></script>
