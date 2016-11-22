@@ -84,7 +84,7 @@
       <span>Open Data Kosovo, Kosovo</span>
       <span>Funky Citizens, Romania</span>
       <span>Europe Foundation, Georgia</span>
-      <span>Citizens Network OPORA, Ukraine</span>
+      <span>Civil Network OPORA, Ukraine</span>
       <span>Fair-Play Alliance, Slovakia</span>
       <span>TOL, Czech Republic</span>
       <span>Texty.org.ua, Ukraine</span>
@@ -150,7 +150,7 @@
       <span>Lejla Sadiku</span>
       <span>Maria Xynou</span>
       <span>Frank Kresin</span>
-      <span>Yana Zlotarova</span>
+      <span>Yana Zolotarova</span>
       <span>Kuba Wygnański</span>
       <span>Nataliya Gumenyuk</span>
       <span>Michał ‘rysiek’ Woźniak</span>
