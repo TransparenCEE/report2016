@@ -8,6 +8,8 @@
   </div>
 
   <div class="nav-buttons">
+    <a href="https://2017.transparencee.org/" class="year-switcher">'17</a>
+
     <a href="" class="hamburger-button">
       <img class="white" src="images/menu_biale.png" alt="">
       <img class="black" src="images/menu_cz.png" alt="">
