@@ -1,3 +1,5 @@
+---
+---
 <!doctype html>
 
 <html lang="pl">
@@ -20,7 +22,7 @@
   <link rel="stylesheet" href="css/jquery.fullPage.css">
   <link rel="stylesheet" href="css/style.css">
 
-  <link rel="icon" href="http://transparencee.org/wp-content/themes/transparencee/images/favicon.png" type="image/png"/>
+  <link rel="icon" href="images/favicon.png" type="image/png"/>
 
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
@@ -40,23 +42,23 @@
 <body class="invert-header">
   <div class="global-container"> 
 
-    <?php include ("moduls/header.php"); ?>
+    {% include header.html %}
     
     <div class="sections-container">
-      <?php include ("moduls/section-cover.php"); ?>
-      <?php include ("moduls/section-intro.php"); ?>
-      <?php include ("moduls/section-civic-tech.php"); ?> 
-      <?php include ("moduls/section-events.php"); ?>
-      <?php include ("moduls/section-event-2.php"); ?>
-      <?php include ("moduls/section-event-3.php"); ?>  
-      <?php include ("moduls/section-event-1.php"); ?>
-      <?php include ("moduls/section-event-4.php"); ?>
-      <?php include ("moduls/section-build.php"); ?> 
-      <?php include ("moduls/section-standards.php"); ?>
-      <?php include ("moduls/section-data.php"); ?>
-      <?php include ("moduls/section-practices.php"); ?>
-      <?php include ("moduls/section-thankyou.php"); ?>
-      <?php include ("moduls/section-bye.php"); ?>
+      {% include section-cover.html %}
+      {% include section-intro.html %}
+      {% include section-civic-tech.html %} 
+      {% include section-events.html %}
+      {% include section-event-2.html %}
+      {% include section-event-3.html %}  
+      {% include section-event-1.html %}
+      {% include section-event-4.html %}
+      {% include section-build.html %} 
+      {% include section-standards.html %}
+      {% include section-data.html %}
+      {% include section-practices.html %}
+      {% include section-thankyou.html %}
+      {% include section-bye.html %}
     </div>
 
   </div>
